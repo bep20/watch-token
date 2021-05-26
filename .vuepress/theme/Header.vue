@@ -17,13 +17,13 @@
         </b-nav-item>
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
-        <b-nav-item target="_blank" href="https://sadlovestory73588.github.io/erc20-generator/">
+        <b-nav-item target="_blank" href="https://erc20-generator.github.io/erc20-generator/">
           <b-badge class="p-2" variant="info">Create ERC20 Token</b-badge>
         </b-nav-item>
-        <b-nav-item target="_blank" href="https://sadlovestory73588.github.io/bep20-generator/">
+        <b-nav-item target="_blank" href="https://erc20-generator.github.io/bep20-generator/">
           <b-badge class="p-2" variant="warning">Create BEP20 Token</b-badge>
         </b-nav-item>
-        <b-nav-item target="_blank" href="https://sadlovestory73588.medium.com/how-to-add-token-to-metamask-fba11854f6cd">
+        <b-nav-item target="_blank" href="https://erc20-generator.medium.com/how-to-add-token-to-metamask-fba11854f6cd">
           <small>About</small>
         </b-nav-item>
       </b-navbar-nav>
