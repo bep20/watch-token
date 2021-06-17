@@ -31,14 +31,14 @@
         <b-button size="lg"
                   variant="outline-info"
                   class="mt-2 text-uppercase p-3"
-                  href="https://sadlovestory73588.github.io/erc20-generator/"
+                  href="https://bep20.github.io/erc20-generator/"
                   target="_blank">
           Create ERC20 Token
         </b-button>
         <b-button size="lg"
                   variant="outline-warning"
                   class="mt-2 text-uppercase p-3"
-                  href="https://sadlovestory73588.github.io/bep20-generator/"
+                  href="https://bep20.github.io/bep20-generator/"
                   target="_blank">
           Create BEP20 Token
         </b-button>
