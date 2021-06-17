@@ -15,10 +15,10 @@ module.exports = {
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://erc20-generator.github.io/watch-token' }],
-    ['meta', { property: 'og:image', content: 'https://erc20-generator.github.io/watch-token/assets/images/watch-token.jpg' }], // eslint-disable-line max-len
+    ['meta', { property: 'og:url', content: 'https://bep20.github.io/watch-token' }],
+    ['meta', { property: 'og:image', content: 'https://bep20.github.io/watch-token/assets/images/watch-token.jpg' }], // eslint-disable-line max-len
     ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { property: 'twitter:image', content: 'https://erc20-generator.github.io/watch-token/assets/images/watch-token.jpg' }], // eslint-disable-line max-len
+    ['meta', { property: 'twitter:image', content: 'https://bep20.github.io/watch-token/assets/images/watch-token.jpg' }], // eslint-disable-line max-len
     ['meta', { property: 'twitter:title', content: 'WatchToken | Create a Widget for your ERC20 or BEP20 Token' }],
     ['script', { src: '/assets/js/web3.min.js' }],
     ['script',
