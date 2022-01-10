@@ -15,10 +15,10 @@
     "url": "https://github.com/erc20-generator/watch-token/issues"
   },
   "license": "MIT",
-  "author": "Marvin Chance (https://github.com/erc20-generator)",
+  "author": "Marvin Chance (https://github.com/bep20)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erc20-generator/watch-token.git"
+    "url": "https://github.com/bep20/watch-token.git"
   },
   "dependencies": {
     "web3": "^1.3.4"
