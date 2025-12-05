@@ -37,11 +37,11 @@
         Polygon
       </a></div></div> <div class="col-lg-8 offset-lg-2"><div class="jumbotron text-light bg-dark"><!----><!----><h4>Want to create your own Token?</h4> <p>
         Use Token Generator to create your own Token in less than a minute.
-      </p> <a href="https://createmytoken.net/token-generator/ethereum/" rel="noopener" target="_blank" class="btn mt-2 text-uppercase p-3 btn-sm-block btn-outline-info btn-sm">
+      </p> <a href="https://www.smartcontracts.tools/token-generator/ethereum/" rel="noopener" target="_blank" class="btn mt-2 text-uppercase p-3 btn-sm-block btn-outline-info btn-sm">
         ERC20 on Ethereum
-      </a> <a href="https://createmytoken.net/token-generator/bsc/" rel="noopener" target="_blank" class="btn mt-2 text-uppercase p-3 btn-sm-block btn-outline-warning btn-sm">
+      </a> <a href="https://www.smartcontracts.tools/token-generator/bsc/" rel="noopener" target="_blank" class="btn mt-2 text-uppercase p-3 btn-sm-block btn-outline-warning btn-sm">
         BEP20 on BSC
-      </a> <a href="https://createmytoken.net/token-generator/polygon/" rel="noopener" target="_blank" class="btn mt-2 text-uppercase p-3 btn-sm-block btn-outline-violet btn-sm">
+      </a> <a href="https://www.smartcontracts.tools/token-generator/polygon/" rel="noopener" target="_blank" class="btn mt-2 text-uppercase p-3 btn-sm-block btn-outline-violet btn-sm">
         ERC20 on Polygon
       </a></div></div></div></div> <!----></div><div class="global-ui"></div></div>
     <script src="/watch-token/assets/js/app.af6f8fed.js" defer></script><script src="/watch-token/assets/js/6.817372db.js" defer></script><script src="/watch-token/assets/js/8.b221a0dd.js" defer></script>
